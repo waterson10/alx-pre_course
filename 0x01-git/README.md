@@ -1,1 +1,1 @@
-my second readme
+I am a sftware engineer
